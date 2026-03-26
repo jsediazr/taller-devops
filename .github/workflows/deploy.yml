@@ -55,7 +55,7 @@ jobs:
   deploy:
     name: 🚀 Build y Despliegue
     runs-on: ubuntu-latest
-    needs: test              # ⚠️ Espera a que el job 'test' termine exitosamente
+    needs: test              # ⚠️ Espera a que el job 'test' termine exitosament
     if: github.ref == 'refs/heads/main'  # Solo en la rama main
 
     environment:
