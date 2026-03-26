@@ -20,8 +20,8 @@ function App() {
           </div>
           
           <h1 className="main-title">
-            Bienvenido a tu
-            <span className="gradient-text"> Aplicación DevOps</span>
+            ¡Sebastián! Bienvenido a tu
+            <span className="gradient-text"> Aplicación </span>
           </h1>
           
           <p className="subtitle">
