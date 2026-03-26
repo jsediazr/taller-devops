@@ -1,6 +1,11 @@
 function App() {
   return (
+
+    
+
     <div className="App">
+      <h1>¡Hola DevOps! 🚀</h1>
+      {/* <p>Esta app fue desplegada automáticamente con GitHub Actions</p> */}
       <div className="hero-section">
         <div className="animated-background">
           <div className="gradient-orb orb-1"></div>
@@ -32,7 +37,7 @@ function App() {
                 </svg>
               </div>
               <h3>CI/CD Automatizado</h3>
-              <p>Pipeline completamente automático con GitHub Actions</p>
+              {/* <p>Pipeline completamente automático con GitHub Actions</p> */}
             </div>
             
             <div className="feature-card">
